@@ -56,32 +56,32 @@ _Это сделано для простоты. В случае необходи
 ### Схема связи файлов программы:
 ___
 
-![Изображение схемы файлов](images\img1.png)
+![Изображение схемы файлов](https://github.com/DavidG9999/Telephone-directory/blob/master/images/img1.png)
 
 ### Пример использования программы: 
 ___
 
 1. Начальный интерфейс программы. Состоит из списка команд и строки ввода.
    
-![Начальный интерфейс программы](https://github.com/DavidG9999/Telephone-directory/blob/master/images/img1.png)
+![Начальный интерфейс программы](https://github.com/DavidG9999/Telephone-directory/blob/master/images/img2.png)
 
 2. Ввод команды `Добавить новую запись` и ввод значений. После выводится сообщение `Новая запись добавлена успешно`. Далее выводится запрос на продолжение. Введем `да`.
    
-![Ввод команды](images\img3.png)  
+![Ввод команды](https://github.com/DavidG9999/Telephone-directory/blob/master/images/img3.png)  
 
 3. Новая запись в текстовом файле.
 
-![Новая запись](images\img4.png)  
+![Новая запись](https://github.com/DavidG9999/Telephone-directory/blob/master/images/img4.png)  
 
 4. Попробуем ввести несуществующую команду 5. Выведится с сообщение `Команды под номером 5 не существует`. После опять выводится запрос на продолжение. Введем `нет`.
 
-![Несуществующая команда](images\img5.png)  
+![Несуществующая команда](https://github.com/DavidG9999/Telephone-directory/blob/master/images/img5.png)  
 
 5. После ввода `нет` выводится сообщение `Закрытие программы.` и программа завершается.
 
-![Команда нет](images\img6.png) 
+![Команда нет](https://github.com/DavidG9999/Telephone-directory/blob/master/images/img6.png) 
 
 6. Запустим программу снова. Теперь попробуем ввести команду неправильно. Выведится сообщение об ошибке и нам предложат ввести команду снова. Введем опять неправильно. На этот раз выведится сообщение `Завершение программы!` и программа завершится.
 
-![Команда нет](images\img7.png) 
+![Команда нет](https://github.com/DavidG9999/Telephone-directory/blob/master/images/img7.png) 
 
